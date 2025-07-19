@@ -1,4 +1,4 @@
-# 📊 MISO Survey Analysis – Framingham State University
+#  MISO Survey Analysis – Framingham State University
 
 **Duration:** Jan 2025 – Apr 2025  
 **Affiliation:** Northeastern University  
@@ -7,13 +7,13 @@
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project focused on analyzing faculty responses from the **MISO (Measuring Information Services Outcomes)** survey conducted in **2018 and 2024** at Framingham State University. The goal was to uncover trends in technology satisfaction, identify evolving needs post-pandemic, and recommend data-driven improvements in digital infrastructure and services.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Clean and preprocess two years of survey data (2018 & 2024).
 - Analyze trends in technology usage and satisfaction.
@@ -22,7 +22,7 @@ This project focused on analyzing faculty responses from the **MISO (Measuring I
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python:** Pandas, NumPy, Seaborn, Matplotlib  
 - **Documentation:** MS Word & PowerPoint  
@@ -32,7 +32,7 @@ This project focused on analyzing faculty responses from the **MISO (Measuring I
 ---
 
 
-## 🔍 Key Findings
+##  Key Findings
 
 - **Satisfaction** with core platforms (Canvas, web conferencing) improved post-pandemic.
 - **Adoption of AI tools** increased significantly among younger, non-tenured faculty.
@@ -41,7 +41,7 @@ This project focused on analyzing faculty responses from the **MISO (Measuring I
 
 ---
 
-## 📊 Deliverables
+## Deliverables
 
 -  Cleaned datasets for 2018 and 2024 surveys  
 -  Comparative analysis scripts for trend identification  
@@ -53,7 +53,7 @@ This project focused on analyzing faculty responses from the **MISO (Measuring I
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 - **Launch faculty development programs** on AI & digital tools.
 - **Modernize classroom infrastructure** in lower-satisfaction departments.
@@ -62,7 +62,7 @@ This project focused on analyzing faculty responses from the **MISO (Measuring I
 
 ---
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning & Validation  
 - Exploratory & Comparative Data Analysis  
